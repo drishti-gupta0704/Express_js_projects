@@ -1,0 +1,16 @@
+{
+  "name": "validation_middleware",
+  "version": "1.0.0",
+  "description": "This is a basic Express.js application that demonstrates how to use routes in a clean way. It uses a separate routes folder and handles user-related APIs under /users.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}

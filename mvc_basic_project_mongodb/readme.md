@@ -11,7 +11,7 @@ A simple CRUD project using Express.js, MongoDB, and the MVC architecture. This 
 - RESTful API Endpoints – Easy to extend
 
 ## Project Structure
-mvc_basic_project_mongodb/
+``` mvc_basic_project_mongodb/
 │
 ├── app.js                 # Entry point
 ├── config/
@@ -26,7 +26,7 @@ mvc_basic_project_mongodb/
 ├── package.json
 ├── README.md              # Project documentation
 └── node_modules/
-
+```
 ## how to run 
 1. Clone the repository
    git clone https://github.com/drishti-gupta0704/Express_js_projects.git

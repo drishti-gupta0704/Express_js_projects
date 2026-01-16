@@ -30,6 +30,7 @@ A simple CRUD project using Express.js, MongoDB, and the MVC architecture. This 
 ## how to run 
 1. Clone the repository
    git clone https://github.com/drishti-gupta0704/Express_js_projects.git
+   
    cd mvc_basic_project_mongodb
 
 2. Install dependencies
